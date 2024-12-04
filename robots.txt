@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://njupt-PanWang.github.io/al-folio/sitemap.xml
+Sitemap: https://njupt-PanWang.github.io/sitemap.xml
